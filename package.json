@@ -1,0 +1,15 @@
+{
+  "name": "desatio-dot",
+  "version": "1.0.0",
+  "description": "Testes automatizados utilizando a ferramenta Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.15.2"
+  }
+}
