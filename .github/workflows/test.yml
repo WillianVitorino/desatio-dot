@@ -1,10 +1,9 @@
 name: Test DOT CI
 
 on:
+  workflow_dispatch:
   push:
     branches: [ ci ]
-
-  workflow_dispatch:
 
 jobs:
   test:
