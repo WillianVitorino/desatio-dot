@@ -1,4 +1,4 @@
-# desatio-dot
+# desafio-dot-digital-group
 Cypress Automated Tests
 
 
